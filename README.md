@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Moses Ziregbe. I’m a Data Analyst Proficient in Excel, Power BI, Tableau, SQL, Python and Google Sheets
+- 👋 Hi, I'm Moses Ziregbe. I’m a Data Analyst Proficient in Python, Excel, Power BI, Tableau, SQL and Google Sheets
 - 🌱 I’m Upskilling my Data Analytics and Business Analysis Skills ...
 - 🚀 I’m looking for Data Analytics roles (Remote, Freelancing, Internship and Permanent roles)
 - 🚀 I’m looking to collaborate on data analytics projects, research work.
