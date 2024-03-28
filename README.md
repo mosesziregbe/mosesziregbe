@@ -22,7 +22,7 @@ I'm big on continuous learning and improvement. Here are some of my certificatio
 - SQL for Data Science, Coursera
 - The Ultimate MySQL Bootcamp by Colt Steele, Udemy
 - Resagratia Data Bootcamp
-- Data Analysis with Pandas and Python by Boris Paskhaever, Udemy
+- Data Analysis with Pandas and Python by Boris Paskhaver, Udemy
 - Data Analysis with Python: NumPy & Pandas Masterclass, Udemy
 
 ### ⚡Fun fact
