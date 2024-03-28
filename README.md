@@ -1,13 +1,34 @@
-- 👋 Hi, I'm Moses Ziregbe. I’m a Data Analyst Proficient in Python, Excel, Power BI, Tableau, SQL and Google Sheets
-- 🌱 I’m Upskilling my Data Analytics and Business Analysis Skills ...
-- 🚀 I’m looking for Data Analytics roles (Remote, Freelancing, Internship and Permanent roles)
-- 🚀 I’m looking to collaborate on data analytics projects, research work.
-- 📫 How to reach me ... Linkedin
-- ⚡ Fun fact: I love researching and watching movies!
+## Hi, I'm Moses Ziregbe  
 
-💻Tech Stack:
-- Python, R, MicrosoftSQLServer, Postgres, MySQL, Pandas, Numpy, Matplotlib, Seaborn, SQLite
+Welcome to my Github profile! I am a data analyst with passion for extracting insights from data. Leveraging my experience in Python, SQL, Excel plus data visualization expertise in Power BI, Looker Studio and Tableau, I work tirelessly to find my insights. I am a result-driven and dedicated Data Analyst with experience in transforming complex datasets into valuable insights, providing actionable recommendations and communicating technical findings to diverse stakeholders. I am eager to learn and explore new data challenges.
 
+### 💼 Technology & Tools
+Excel | SQL | Power BI | Python | Tableau | R | Google Sheets | Looker Studio | Vscode | Jupyter Lab
+
+### 💻Tech Stack:
+MySQL, Postgresql, Python (Pandas, Numpy, Matplotlib, Seaborn), R, MicrosoftSQLserver
+
+### 📫 Let's Connect
+I love to collaborate collaborate on data analytics projects and network! Reach out to me through the following channels:
+- Linkedin: [Moses Ziregbe](https://www.linkedin.com/in/moses-ziregbe/)
+- Email: ziregbemoses01@gmail.com
+
+### 🏆 Certifications
+I'm big on continuous learning and improvement. Here are some of my certifications in data analysis and other related fields:
+
+- Google Data Analytics Certificate, Coursera
+- Google Advanced Data Analytics, Coursera
+- Microsoft Power BI Desktop for Business 
+- SQL for Data Science, Coursera
+- The Ultimate MySQL Bootcamp by Colt Steele, Udemy
+- Resagratia Data Bootcamp
+- Data Analysis with Pandas and Python by Boris Paskhaever, Udemy
+- Data Analysis with Python: NumPy & Pandas Masterclass, Udemy
+
+### ⚡Fun fact
+I love researching and watching movies!
+
+🚀Feel free to reach out to me if you want to chat about data, or just literally throw your thoughts, or even start a joint project! 🚀
 <!---
 mosesziregbe/mosesziregbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
