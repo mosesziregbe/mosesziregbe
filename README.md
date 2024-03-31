@@ -28,7 +28,7 @@ I'm big on continuous learning and improvement. Here are some of my certificatio
 ### ⚡Fun fact
 I love researching and watching movies!
 
-🚀Feel free to reach out to me if you want to chat about data, or just literally throw your thoughts, or even start a joint project! 🚀
+🚀Feel free to reach out to me if you want to chat about data, or just literally throw your thoughts, or even start a joint project! 
 <!---
 mosesziregbe/mosesziregbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
