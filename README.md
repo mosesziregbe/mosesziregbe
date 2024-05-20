@@ -18,7 +18,7 @@ I'm big on continuous learning and improvement. Here are some of my certificatio
 
 - Google Data Analytics Certificate, Coursera
 - Google Advanced Data Analytics, Coursera
-- Microsoft Power BI Desktop for Business 
+- Microsoft Power BI Desktop for Business Intelligence
 - SQL for Data Science, Coursera
 - The Ultimate MySQL Bootcamp by Colt Steele, Udemy
 - Resagratia Data Bootcamp
