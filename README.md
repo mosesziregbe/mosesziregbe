@@ -1,4 +1,4 @@
-## Hi, I'm Moses Ziregbe  
+## Hi, I'm Moses Tega Ziregbe  
 
 Welcome to my Github profile! I am a data analyst with passion for extracting insights from data. Leveraging my experience in Python, SQL, Excel plus data visualization expertise in Power BI, Looker Studio and Tableau, I work tirelessly to find my insights. I am a result-driven and dedicated Data Analyst with experience in transforming complex datasets into valuable insights, providing actionable recommendations and communicating technical findings to diverse stakeholders. I am eager to learn and explore new data challenges.
 
