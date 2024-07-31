@@ -6,7 +6,7 @@ Welcome to my Github profile! I am a data analyst with passion for extracting in
 Excel | SQL | Power BI | Python | Tableau | R | Google Sheets | Looker Studio | Vscode | Jupyter Lab
 
 ### 💻Tech Stack:
-MySQL, Postgresql, Python (Pandas, Numpy, Matplotlib, Seaborn), R, MicrosoftSQLserver
+MicrosoftSQLserver, Postgresql, MySQL, DBeaver, Docker, Python (Pandas, Numpy, Matplotlib, Seaborn), R
 
 ### 📫 Let's Connect
 I love to collaborate collaborate on data analytics projects and network! Reach out to me through the following channels:
