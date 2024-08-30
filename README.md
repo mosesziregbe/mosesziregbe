@@ -3,7 +3,7 @@
 Welcome to my Github profile! 
 I am a data analyst with passion for extracting insights from data. Leveraging my experience in Python, SQL, Excel plus data visualization expertise in Power BI, Looker Studio and Tableau, I work tirelessly to find my insights. I am a result-driven and dedicated Data Analyst with experience in transforming complex datasets into valuable insights, providing actionable recommendations and communicating technical findings to diverse stakeholders. I am eager to learn and explore new data challenges.
 
-### Tools
+### 🛠️ Tools
 - Database: PostgreSQL, SQL Server, MySQL, Google BigQuery, DBeaver
 - Language: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), R
 - Visualization: Power BI, Tableau, Looker Studio
@@ -11,8 +11,12 @@ I am a data analyst with passion for extracting insights from data. Leveraging m
 - Development Environments: Jupyter Lab, Vs code
 - Containerization: Docker
 
-### 📫 Let's Connect
-I love to collaborate collaborate on data analytics projects and network! Reach out to me through the following channels:
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects](https://github.com/mosesziregbe?tab=repositories).
+
+### 📫 Connect with Me
+
 - [Linkedin](https://www.linkedin.com/in/moses-ziregbe/)
 - [Email](ziregbemoses01@gmail.com)
 
