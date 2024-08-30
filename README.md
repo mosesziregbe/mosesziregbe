@@ -1,19 +1,23 @@
 ## Hi, I'm Moses Tega Ziregbe  
 
-Welcome to my Github profile! I am a data analyst with passion for extracting insights from data. Leveraging my experience in Python, SQL, Excel plus data visualization expertise in Power BI, Looker Studio and Tableau, I work tirelessly to find my insights. I am a result-driven and dedicated Data Analyst with experience in transforming complex datasets into valuable insights, providing actionable recommendations and communicating technical findings to diverse stakeholders. I am eager to learn and explore new data challenges.
+Welcome to my Github profile! 
+I am a data analyst with passion for extracting insights from data. Leveraging my experience in Python, SQL, Excel plus data visualization expertise in Power BI, Looker Studio and Tableau, I work tirelessly to find my insights. I am a result-driven and dedicated Data Analyst with experience in transforming complex datasets into valuable insights, providing actionable recommendations and communicating technical findings to diverse stakeholders. I am eager to learn and explore new data challenges.
 
-### 🧰 Technology & Tools
-Excel | SQL | Power BI | Python | Tableau | R | Google Sheets | Looker Studio | Vscode | Jupyter Lab
-
-### 💻Tech Stack:
-MicrosoftSQLserver, Postgresql, MySQL, DBeaver, Docker, Python (Pandas, Numpy, Matplotlib, Seaborn), R
+### Tools
+- Database: PostgreSQL, SQL Server, MySQL, Google BigQuery, DBeaver
+- Language: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), R
+- Visualization: Power BI, Tableau, Looker Studio
+- Spreadsheet Software: Excel, Google Sheets
+- Development Environments: Jupyter Lab, Vs code
+- Containerization: Docker
 
 ### 📫 Let's Connect
 I love to collaborate collaborate on data analytics projects and network! Reach out to me through the following channels:
-- Linkedin: [Moses Ziregbe](https://www.linkedin.com/in/moses-ziregbe/)
-- Email: ziregbemoses01@gmail.com
+- [Linkedin](https://www.linkedin.com/in/moses-ziregbe/)
+- [Email](ziregbemoses01@gmail.com)
 
 ### 🏆 Certifications
+
 I'm big on continuous learning and improvement. Here are some of my certifications in data analysis and other related fields:
 
 - Google Data Analytics Certificate, Coursera
