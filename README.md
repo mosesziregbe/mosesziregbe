@@ -2,7 +2,7 @@
 
 Welcome to my Github profile! 
 
-I am a results-oriented and dedicated Data Analyst with experience transforming complex datasets into valuable insights, offering actionable recommendations, and effectively communicating technical findings to diverse stakeholders. Eager to learn and tackle new data challenges.
+I am a results-oriented and dedicated Data Analyst with experience in transforming complex datasets into valuable insights, offering actionable recommendations, and effectively communicating technical findings to diverse stakeholders. Eager to learn and tackle new data challenges.
 
 ### 🛠️ Tools
 - Database: PostgreSQL, SQL Server, MySQL, Google BigQuery, DBeaver
