@@ -14,25 +14,26 @@ I am a results-oriented and dedicated Data Analyst with experience in transformi
 
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/mosesziregbe?tab=repositories).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/mosesziregbe/Portfolio-Guide).
 
 
 ### 📫 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/moses-ziregbe/)
 - [Email](ziregbemoses01@gmail.com)
-
+- [Portfolio Website](tegaziregbe.carrd.co)
 
 ### 🏆 Certifications
 I'm big on continuous learning and improvement. Here are some of my certifications in data analysis and other related fields:
 
-- Google Data Analytics Certificate, Coursera
-- Google Advanced Data Analytics, Coursera
-- Microsoft Power BI Desktop for Business Intelligence
-- SQL for Data Science, Coursera
-- The Ultimate MySQL Bootcamp by Colt Steele, Udemy
-- Resagratia Data Bootcamp
-- Data Analysis with Pandas and Python by Boris Paskhaver, Udemy
-- Data Analysis with Python: NumPy & Pandas Masterclass, Udemy
+*- Google Data Analytics Certificate, Coursera*
+*- Google Advanced Data Analytics, Coursera*
+*- Resagratia Data Bootcamp*
+*- Microsoft Power BI Desktop for Business Intelligence, Maven Analytics*
+*- SQL for Data Science, Coursera*
+*- The Ultimate MySQL Bootcamp by Colt Steele*
+*- Learn to Code with Python by Boris Paskhaver*
+*- Data Analysis with Pandas and Python by Boris Paskhaver*
+*- Data Analysis with Python: NumPy & Pandas Masterclass*
 
 
 ### ⚡Fun fact
