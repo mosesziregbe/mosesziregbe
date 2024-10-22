@@ -20,7 +20,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/moses
 ### 📫 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/moses-ziregbe/)
 - [Email](ziregbemoses01@gmail.com)
-- [Portfolio Website](tegaziregbe.carrd.co)
+- [Portfolio Website](https://tegaziregbe.carrd.co)
 
 ### 🏆 Certifications
 I'm big on continuous learning and improvement. Here are some of my certifications in data analysis and other related fields:
